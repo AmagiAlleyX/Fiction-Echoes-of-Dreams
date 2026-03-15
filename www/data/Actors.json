@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"!$yixiaqiusheng","classId":3,"equips":[3,1,2,3,4],"faceIndex":0,"faceName":"actorqiusheng","traits":[],"initialLevel":10,"maxLevel":99,"name":"伊夏秋牲","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"!$tianchengxiaoxiang","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"actorxiaoxiang","traits":[],"initialLevel":99,"maxLevel":99,"name":"天城小巷","nickname":"","note":"","profile":""}
+]
